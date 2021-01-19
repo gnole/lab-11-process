@@ -1,3 +1,5 @@
+// Copyright [year] <Copyright Owner>
+
 #ifndef INCLUDE_PROCESS_HPP_
 #define INCLUDE_PROCESS_HPP_
 
