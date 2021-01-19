@@ -1,5 +1,3 @@
-// Copyright [year] <Copyright Owner>
-
 #pragma once
 
 #include <list>

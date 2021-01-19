@@ -1,5 +1,3 @@
-// Copyright [year] <Copyright Owner>
-
 #include "Builder.hpp"
 
 const std::string Builder::kDirectoryBuild = "_build";

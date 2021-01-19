@@ -1,5 +1,3 @@
-// Copyright [year] <Copyright Owner>
-
 #include <async++.h>
 
 #include "Process.hpp"

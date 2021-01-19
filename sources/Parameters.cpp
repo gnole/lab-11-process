@@ -1,5 +1,3 @@
-// Copyright [year] <Copyright Owner>
-
 #include "Parameters.hpp"
 
 int Parameters::timeout{};

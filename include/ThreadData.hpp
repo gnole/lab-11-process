@@ -1,5 +1,3 @@
-// Copyright [year] <Copyright Owner>
-
 #ifndef INCLUDE_THREADDATA_HPP_
 #define INCLUDE_THREADDATA_HPP_
 

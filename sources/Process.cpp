@@ -1,5 +1,3 @@
-// Copyright [year] <Copyright Owner>
-
 #include "Process.hpp"
 void Process::create(std::unique_ptr<ThreadData> &data) {
   if (Parameters::timeout <= 0) {
